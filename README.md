@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Obstgesicht/Obstgesicht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# hello-world
+<body>
+    <p>Practicing, just practicing</p>
+    <ul>
+      <li> 👋 My pseudonym is Obstgesicht and I am 14 years old</li>
+      <li> 🤔 On this repository I am just testing some things about GitHub</li>
+      <li> 🥳 I am really new to GitHub</li>
+      <li> 🌼 I am interested in making Minecraft Plugins, and learning new things about programing</li>
+      <li> 🌠 Pronouns: he/him</li>
+    </ul>
+    <hr>
+</body>
