@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# hello-world
+## Hi human 👋
 <body>
     <p>Practicing, just practicing</p>
     <ul>
